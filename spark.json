@@ -1,0 +1,7 @@
+{
+  "name": "ArduinoJson",
+  "author": "Benoit Blanchon",
+  "license": "MIT",
+  "version": "4.1.0",
+  "description": "An elegant and efficient JSON library for embedded systems"
+}
